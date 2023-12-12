@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="my_string">Default my text</string>
+    <string name="my_string2">Default my text2</string>
+</resources>
